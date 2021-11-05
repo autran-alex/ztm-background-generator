@@ -1,0 +1,22 @@
+{
+  "name": "ztm-background-generator",
+  "version": "1.0.0",
+  "description": "\"first npm init\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autran-alex/ztm-background-generator.git"
+  },
+  "author": "Alex Autran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autran-alex/ztm-background-generator/issues"
+  },
+  "homepage": "https://github.com/autran-alex/ztm-background-generator#readme",
+  "dependencies": {
+    "urix": "^0.1.0"
+  }
+}

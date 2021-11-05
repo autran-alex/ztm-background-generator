@@ -25,7 +25,7 @@ function randInitial() {
 
 function setBackground() {
     body.style.background =
-        "linear-gradient(to top right, " + color1.value + ", " + color2.value + ")";
+        "linear-gradient(to top right, " + color1.value + ", " + color2.value + ") no-repeat center center fixed";
 
     button1.style.background = color1.value;
     button2.style.background = color2.value;
